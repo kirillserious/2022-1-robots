@@ -9,3 +9,10 @@ pip3 install -r requirements.txt
 ```sh
 jupyter notebook main.ipynb
 ```
+
+## Структура проекта
+**model** - Описание модели робота PHANTOM 1.5
+
+**main** - Регуляторы и примеры их работы
+
+**utils** - Частые функции, используемые в работе
